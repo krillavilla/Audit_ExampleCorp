@@ -7,7 +7,7 @@ Project
 Setup</h2></div></div></div></div><div class="css-1m96lhp"><div class="css-u8svcc"><div class="vds-loading vds-loading--md" role="status" aria-label="Loading…"><div class="vds-loading__children"><div class="_1UN_ejel6QzQCa_M5Nn4bu"><div class="_2lGVVA99VY-snhn6dzPP-z"><div class="_3h3jXAJ1HmC2_sa49itKME _2nvHtsDYiD14gMJ8MpUp2c"><div class="">
   
 <a href="https://www.youtube.com/embed/vgRNdHeiFMU?start=1" target="_blank">
- <img src="https://img.youtube.com/vi/https://www.youtube.com/embed/vgRNdHeiFMU?start=1/2.jpg" alt="Watch the video" width="560" height="315" border="10" />
+ <img src="https://img.youtube.com/vi/https://www.youtube.com/embed/vgRNdHeiFMU?start=1/2.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 
