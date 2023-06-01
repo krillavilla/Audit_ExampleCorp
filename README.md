@@ -1,17 +1,7 @@
 # Audit_ExampleCorp
 Udacity Ethical Hacker NanoDegree | Audit ExampleCorp Project
 
-<h1 class="chakra-heading css-iuea7g">Setting Up The
-Project</h1></div><div class="css-0"><div class="css-1m96lhp"><div class="css-u8svcc"><div class="copy-length css-0"><div class="ureact-markdown css-tc5hjw"><h2 class="chakra-heading css-lb1dt4">
-Project
-Setup</h2></div></div></div></div><div class="css-1m96lhp"><div class="css-u8svcc"><div class="vds-loading vds-loading--md" role="status" aria-label="Loading…"><div class="vds-loading__children"><div class="_1UN_ejel6QzQCa_M5Nn4bu"><div class="_2lGVVA99VY-snhn6dzPP-z"><div class="_3h3jXAJ1HmC2_sa49itKME _2nvHtsDYiD14gMJ8MpUp2c"><div class="">
-  
-<a href="https://www.youtube.com/embed/vgRNdHeiFMU?start=1" target="_blank">
- <img src="https://img.youtube.com/vi/https://www.youtube.com/embed/vgRNdHeiFMU?start=1/2.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
-
-
-</div></div></div></div></div></div></div></div><div class="css-1m96lhp"><div class="css-u8svcc"><div class="copy-length css-0"><div class="ureact-markdown css-tc5hjw"><h2 class="chakra-heading css-lb1dt4">Setting Up The Project</h2>
+<div class="css-1m96lhp"><div class="css-u8svcc"><div class="copy-length css-0"><div class="ureact-markdown css-tc5hjw"><h2 class="chakra-heading css-lb1dt4">Setting Up The Project</h2>
 <p class="chakra-text css-o3oz8b">For this project, you will be using two virtual machines:</p>
 <ul role="list" class="css-19qh3zo"><li class="css-cvpopp"><strong>Analyst machine</strong> - the machine you have used for all of the exercises in the course</li><li class="css-cvpopp"><strong>Target machine</strong> - the machine you will be analyzing.</li></ul>
 <ol role="list" class="css-13a5a39"><li class="css-cvpopp">Install the latest version of VirtualBox.
